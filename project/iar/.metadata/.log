@@ -1,0 +1,12 @@
+!SESSION 2025-04-25 16:37:55.781 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.16.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Wpang160\Desktop\CYT2BL3_Library-master\Seekfree_CYT2BL3_Opensource_Library\project\iar
+
+!ENTRY com.iar.cdt.arm.toolchain.cmsis.adapter 1 0 2025-04-25 16:38:01.124
+!MESSAGE Using CMSIS pack repositories: http://links.iar.com/cmsis/pack/
+
+!ENTRY com.iar.cmsismanager.product 1 0 2025-04-25 16:38:01.860
+!MESSAGE CMSIS Agent interface registered with service registry at ServiceLocation(host:\\.\pipe\iar-cspy-cpp-binary-com.iar.thrift.service.registry-849df547-827c-4a21-8cdf-a3a58633f340-1, port:0, protocol:Binary, transport:Pipe)
